@@ -1,0 +1,7 @@
+Steps to run
+
+1.Install the Arduino IDE to NodeMcu and flah the code in the folder "NodeMCU-ESP8266- code"
+2.create a account in IBM bluemix IOT and add te new device-NodeMcu
+3.Import the code from the folder "Node-RED" in NODE-RED
+4.Connect the relay to the nodeMcu and relay output to Inductionstove.
+5.Please refer the schematic in "schematics" folder for hardware connection.
